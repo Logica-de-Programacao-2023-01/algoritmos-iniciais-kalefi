@@ -2,6 +2,6 @@ Algoritmo de soma de dois números: um algoritmo simples que pede dois números 
 var x int
 var  w int
 x = 1
-y = 2
+w = 2
 soma := x+w
 fmt.Println(soma)
